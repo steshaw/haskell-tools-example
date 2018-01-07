@@ -8,7 +8,7 @@ Try running:
 $ ht-refact --execute 'ProjectOrganizeImports' .
 ```
 
-The command is also available in the script, [optimise-imports](/optimise-imports).
+The command is also available in the script, [organise-imports](/organise-imports).
 This runs [`ht-refact`][ht-refact] is the Haskell Tools cli. The command
 `ProjectOrganizeImports` (obviously) organises imports across your project. To
 organise imports for a single module, use the command `OrganizeImports Main`.
