@@ -1,6 +1,6 @@
 module Main where
 
-import System.Environment
+import System.Environment (getEnvironment)
 
 doMain = print =<< getEnvironment
 
