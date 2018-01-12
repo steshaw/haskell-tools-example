@@ -23,7 +23,7 @@ dependencies:
 
 executables:
   Env:
-    main:                Env.hs
+    main:                Main.hs
     source-dirs:         .
     ghc-options:
     - -threaded
